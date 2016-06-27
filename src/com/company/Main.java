@@ -8,6 +8,8 @@ public class Main {
         
         // write my code here
         System.out.println("Hello World!!");
+
+        System.out.println("Hello! Local repository");
         
     }
 }
