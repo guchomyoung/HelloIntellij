@@ -17,5 +17,8 @@ public class Main {
         
         System.out.println("Hello! gitHub2.");
         
+        // pull test!!
+        System.out.println("Hello Pull!!");
+        
     }
 }
