@@ -15,5 +15,7 @@ public class Main {
 
         System.out.println("Hello! Local repository2");
         
+        System.out.println("Hello! gitHub2.");
+        
     }
 }
