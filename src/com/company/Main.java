@@ -9,7 +9,9 @@ public class Main {
         Rectangle r = new Rectangle(); // 서브클래스 객체 생성
         Circle c = new Circle();  // 서브클래스 객체생성
         r.draw();
+        System.out.println("=======================");
         c.draw();
+
 
 
 
